@@ -1,4 +1,4 @@
-# helmet_detection
+# Helmet Detection Machine Learning Model - Computer Vision
 
 This is a Jupyter Notebook that can detect whether someone is wearing a helmet or not.
 The program allows you to take an image to test with using your webcam
