@@ -18,10 +18,4 @@ This will run locally through Jupyter Notebooks. Alternatively, you could use Go
 
 ## Built With
 
-* [Maven](https://maven.apache.org/) - Dependency Management
-
-This project is licensed under the MIT license - see the [LICENSE.md](LICENSE.md) file for details 
-
-*For help in [Choosing a license](https://choosealicense.com/)*
-
-## Acknowledgments
+* [PyTorch](https://pytorch.org/) 
